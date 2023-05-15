@@ -1,4 +1,4 @@
-[~] Exploring data
-[~] Cleanning data
-[~] EDA
-[~] Run model
+-  Exploring data
+-  Cleanning data
+-  EDA
+-  Run model
